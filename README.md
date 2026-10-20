@@ -1,6 +1,6 @@
-# Higher Taxes, Richer Governments?
+# Low Taxes, Deep Pockets? Who Funds Your State?
 
-This repository accompanies the blog post **“Higher Taxes, Richer Governments?”** The post asks whether U.S. states that collect more tax per person really have richer governments, or whether other money changes the picture. It answers three questions in turn:
+This repository accompanies the blog post **“Low Taxes, Deep Pockets? Who Funds Your State?”** The post asks whether U.S. states that collect more tax per person really have richer governments, or whether other money changes the picture. It answers three questions in turn:
 
 1. How far apart are state and local taxes per person across the 50 states and DC?
 2. Does the gap narrow once fees, natural-resource royalties and federal grants are added, giving total general revenue?
