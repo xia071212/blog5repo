@@ -104,7 +104,8 @@ draw_bars <- function(data, avg, avg_label, title) {
 
 fig1b <- draw_bars(filter(bars, source == "Taxes"), us_avg$taxes_pc,
                    paste0("U.S. average ", dollars(us_avg$taxes_pc)),
-                   paste0("State and Local Taxes per Person by State, ", period))
+                   paste0("State and Local Taxes per Person\nby State, ", period)) +
+  theme(plot.title.position = "plot")
 save_figure(fig1b, "fig1b_taxes_bars", 8, 10)
 
 # Figure 2a: general revenue per person (same color scale as Figure 1a) -----
