@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.quarto/
+*_files/
+Rplots.pdf
+.Renviron

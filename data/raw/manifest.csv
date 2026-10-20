@@ -1,0 +1,8 @@
+"file","url","downloaded_utc","md5"
+"census_finance_2021.csv","https://api.census.gov/data/timeseries/govslocalfin?get=GOVTYPE,GOVTYPE_LABEL,AGG_DESC,AGG_DESC_LABEL,AMOUNT&for=state:*&time=2021","2026-10-19 21:13:27 UTC","8268a63f30719155c874be60af3e17a2"
+"census_finance_2022.csv","https://api.census.gov/data/timeseries/govslocalfin?get=GOVTYPE,GOVTYPE_LABEL,AGG_DESC,AGG_DESC_LABEL,AMOUNT&for=state:*&time=2022","2026-10-19 21:13:33 UTC","b506b7cf502ec4cb64bcfc29e110bdb0"
+"census_finance_2023.csv","https://api.census.gov/data/timeseries/govslocalfin?get=GOVTYPE,GOVTYPE_LABEL,AGG_DESC,AGG_DESC_LABEL,AMOUNT&for=state:*&time=2023","2026-10-19 21:13:35 UTC","276d80e3c816c73e7b5ce78873458b03"
+"census_finance_2024.csv","https://api.census.gov/data/timeseries/govslocalfin?get=GOVTYPE,GOVTYPE_LABEL,AGG_DESC,AGG_DESC_LABEL,AMOUNT&for=state:*&time=2024","2026-10-19 21:13:37 UTC","7637cefd5be816ea0d951f815364a08b"
+"census_population.csv","Census Population Estimates Program, vintage 2024, via tidycensus::get_estimates()","2026-10-19 21:12:56 UTC","daa82aac9379906fc1461143f72d7943"
+"state_boundaries_2022.gpkg","Census cartographic boundary file, states, 2022, 1:20m, via tigris::states()","2026-10-19 21:12:57 UTC","7f1709a87d2bc8a6da2aae733d719a70"
+"taxfoundation_burdens_2022.html","https://taxfoundation.org/data/all/state/tax-burden-by-state-2022/","2026-10-19 21:12:57 UTC","2bcdd5000d1ab8dc86935b7a14748f02"
